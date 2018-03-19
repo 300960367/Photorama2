@@ -2,10 +2,10 @@
 //  AppDelegate.swift
 //  Photorama
 //
-//  Created by FERNANDO ITO on 2018-03-12.
+//  Created by FERNANDO ITO on 2018-03-19.
 //  Copyright © 2018 Centennial College. All rights reserved.
 //  AppDelegate.swift - use the property injection to give the PhotosViewController an instance of PhotoStore
-//  GitHub: https://github.com/300960367/Photorama1
+//  GitHub: https://github.com/300960367/Photorama2
 
 import UIKit
 

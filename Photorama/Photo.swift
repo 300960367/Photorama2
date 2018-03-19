@@ -2,10 +2,10 @@
 //  Photo.swift
 //  Photorama
 //
-//  Created by FERNANDO ITO on 2018-03-12.
+//  Created by FERNANDO ITO on 2018-03-19.
 //  Copyright © 2018 Centennial College. All rights reserved.
 //  Photo.swift - represents each photo that is returned from the web service request.
-//  GitHub: https://github.com/300960367/Photorama1
+//  GitHub: https://github.com/300960367/Photorama2
 
 import Foundation
 

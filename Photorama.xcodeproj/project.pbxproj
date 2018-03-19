@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BFE3A6B420608082004FBB4D /* PhotoDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE3A6B320608082004FBB4D /* PhotoDataSource.swift */; };
 		BFFC8399205742A100455C53 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFFC8398205742A100455C53 /* AppDelegate.swift */; };
 		BFFC839E205742A100455C53 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BFFC839C205742A100455C53 /* Main.storyboard */; };
 		BFFC83A0205742A100455C53 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BFFC839F205742A100455C53 /* Assets.xcassets */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BFE3A6B320608082004FBB4D /* PhotoDataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoDataSource.swift; sourceTree = "<group>"; };
 		BFFC8395205742A100455C53 /* Photorama.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Photorama.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFFC8398205742A100455C53 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BFFC839D205742A100455C53 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -112,6 +114,7 @@
 				BFFC839F205742A100455C53 /* Assets.xcassets */,
 				BFFC83A1205742A100455C53 /* LaunchScreen.storyboard */,
 				BFFC83A4205742A100455C53 /* Info.plist */,
+				BFE3A6B320608082004FBB4D /* PhotoDataSource.swift */,
 			);
 			path = Photorama;
 			sourceTree = "<group>";
@@ -271,6 +274,7 @@
 				BFFC83C9205749AF00455C53 /* FlickrAPI.swift in Sources */,
 				BFFC83C7205743CF00455C53 /* PhotosViewController.swift in Sources */,
 				BFFC83CB205752D600455C53 /* PhotoStore.swift in Sources */,
+				BFE3A6B420608082004FBB4D /* PhotoDataSource.swift in Sources */,
 				BFFC8399205742A100455C53 /* AppDelegate.swift in Sources */,
 				BFFC83CD2057597900455C53 /* Photo.swift in Sources */,
 			);

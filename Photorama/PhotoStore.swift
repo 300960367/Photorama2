@@ -2,10 +2,10 @@
 //  PhotoStore.swift
 //  Photorama
 //
-//  Created by FERNANDO ITO on 2018-03-12.
+//  Created by FERNANDO ITO on 2018-03-19.
 //  Copyright © 2018 Centennial College. All rights reserved.
 //  PhotoStore.swift - responsible for initiating the web service requests.
-//  GitHub: https://github.com/300960367/Photorama1
+//  GitHub: https://github.com/300960367/Photorama2
 
 import Foundation
 import UIKit
